@@ -29,3 +29,4 @@ build/
 
 #Intellij
 .idea/
+/bin/
